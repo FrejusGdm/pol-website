@@ -5,11 +5,14 @@ import Button from '../ui/Button';
 
 const NavBar: React.FC = () => {
   return (
-    <nav className="w-full h-[61px] px-6 bg-[#E4E4E4] border-3 border-solid backdrop-blur-[42px] flex justify-center items-start">
+    <nav className="w-full h-[61px] px-6 bg-[#E4E4E4] border-3 border-solid backdrop-blur-[42px] flex justify-center items-start relative">
       <div className="h-full flex justify-between items-center w-full max-w-[1440px]">
-        <div className="flex justify-start items-start">
-          <Link href="/">
-            <Image src="/logo.png" alt="Logo" width={141} height={36} />
+        <div className="flex justify-start items-center">
+          <Link href="/" className="flex items-center">
+            <div className="relative -top-2">
+              <Image src="/logo.png" alt="Logo" width={45} height={35} />
+            </div>
+            <span className="ml-2 text-[#1D4230] text-lg font-semibold">PRESERVE OUR LANGUAGES</span>
           </Link>
         </div>
         <div className="flex justify-start items-center gap-8">
