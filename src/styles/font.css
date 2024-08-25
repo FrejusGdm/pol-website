@@ -5,27 +5,3 @@
     font-style: normal;
     font-display: swap;
 }
-
-/* @font-face {
-    font-family: 'Bangui';
-src: url('/fonts/Bangui-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-} */
-
-/* Add other font faces here if needed */
-
-/* @font-face {
-    font-family: "Bangui";
-    src: url("https://db.onlinewebfonts.com/t/3ed68f3dc3703d1d2deeb691116e1a28.eot");
-    src: url("https://db.onlinewebfonts.com/t/3ed68f3dc3703d1d2deeb691116e1a28.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/3ed68f3dc3703d1d2deeb691116e1a28.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/3ed68f3dc3703d1d2deeb691116e1a28.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/3ed68f3dc3703d1d2deeb691116e1a28.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/3ed68f3dc3703d1d2deeb691116e1a28.svg#Bangui")format("svg");
-    font-weight: normal;
-    font-style: normal;
-} */
-
-/* Add JUST Sans font here if you have it */

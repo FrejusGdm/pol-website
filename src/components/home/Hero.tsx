@@ -13,9 +13,12 @@ const Hero: React.FC = () => {
           <div className="h-[302px] p-8 rounded-2xl backdrop-blur-[42px] flex flex-col justify-start items-center gap-10">
             <div className="w-full h-[238px] backdrop-blur-[500px] flex flex-col justify-start items-center gap-6">
               <h1 className="text-center text-[#FAFAFA] text-[56px] font-normal leading-[67.2px] font-['Bangui']">
-                Preserving the Voices of Our Heritage
+                Preserving the Voices of 
               </h1>
-              <p className="text-center text-[#FAFAFA] text-base font-normal leading-[19.2px]">
+              <h1 className="text-center text-[#FAFAFA] text-[56px] font-normal leading-[67.2px] font-['Bangui']">
+                Our Heritage
+              </h1>
+              <p className="text-center text-[#FAFAFA] text-[20px] font-normal leading-[19.2px]">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
               </p>
               <Button variant="secondary">JOIN US</Button>
