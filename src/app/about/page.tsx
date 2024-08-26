@@ -4,8 +4,8 @@ import AboutHero from '../../components/about/AboutHero';
 import HistoryBackground from '../../components/about/HistoryBackground';
 import ImpactStories from '../../components/about/ImpactStories';
 import LaJarreTrouee from '../../components/about/LaJarreTrouee';
-import Footer from '@/components/layout/Footer';
-
+import OurLeadership from '../../components/about/OurLeadership';
+import OurTeam from '../../components/about/OurTeam';
 const AboutPage: React.FC = () => {
   return (
     <main>
@@ -14,6 +14,8 @@ const AboutPage: React.FC = () => {
       <HistoryBackground />
       <ImpactStories />
       <LaJarreTrouee />
+      <OurLeadership />
+      <OurTeam />
       {/* Add more sections as needed */}
     </main>
   );

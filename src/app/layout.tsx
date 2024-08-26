@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 import Footer from '../components/layout/Footer';
 
 export const metadata: Metadata = {
-  title: 'Language Preservation Project',
+  title: 'Preserve Our Languages',
   description: 'Preserving the Voices of Our Heritage',
 }
 

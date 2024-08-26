@@ -20,13 +20,13 @@ const HistoryBackground: React.FC = () => {
           <h2 className="text-3xl font-semibold text-[#1D4230] mb-4">History and Background</h2>
           <div className="space-y-4">
             <p className="text-[#0B0A0A]">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem."
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
             </p>
             <p className="text-[#0B0A0A]">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem."
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
             </p>
             <p className="text-[#0B0A0A]">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem."
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
             </p>
           </div>
           <Link href="/signup" className="inline-block mt-6">

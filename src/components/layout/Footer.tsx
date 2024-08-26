@@ -12,8 +12,8 @@ const Footer: React.FC = () => {
             <div className="flex items-center space-x-4">
               <Image src="/logo.png" alt="Logo" width={80} height={20} />
               <div className="text-xs text-[#0B0A0A]">
-                <p><strong>PHONE</strong>: 229 94 31 09 19</p>
-                <p><strong>EMAIL</strong>: Josue@gmail.com</p>
+                <p><strong>PHONE</strong>: Coming Soon</p>
+                <p><strong>EMAIL</strong>: Coming Soon</p>
               </div>
             </div>
             <div className="flex space-x-4">

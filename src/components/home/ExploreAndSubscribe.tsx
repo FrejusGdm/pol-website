@@ -151,7 +151,7 @@ const NewsCard: React.FC<{ imageSrc: string; altText: string }> = ({ imageSrc, a
     <div className="p-4">
       <h4 className="text-sm font-medium text-gray-800 mb-2">NEWS & STORIES</h4>
       <p className="text-sm text-gray-600 mb-4">
-        "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat."
+        Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat.
       </p>
       <div className="flex justify-end">
         <button className="p-2 rounded-full border border-[#F4E1BC]">
