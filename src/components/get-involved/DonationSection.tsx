@@ -20,7 +20,7 @@ const DonationSection: React.FC = () => {
             <div className="bg-white p-6 rounded-lg">
               <h3 className="text-2xl font-semibold text-[#0B0A0A] mb-4">TAKE ACTION</h3>
               <p className="text-[#655F5F] mb-6">
-                We're working on setting up our donation system. Your support will make a difference soon!
+                We&apos;re working on setting up our donation system. Your support will make a difference soon!
               </p>
               <div className="bg-[#CFCECE] p-1 rounded-md inline-flex mb-6">
                 <button className="px-4 py-2 bg-white text-[#0B0A0A] font-semibold rounded">ONE TIME ONLY</button>
