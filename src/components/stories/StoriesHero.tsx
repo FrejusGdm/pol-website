@@ -31,7 +31,7 @@ const StoriesHero: React.FC = () => {
               News & Stories header copy goes here, lorem ipsum dolor sit amet.
             </h1>
             <p className="text-[#0B0A0A] mb-6">
-              "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat."
+              Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat.
             </p>
             <Link href="/stories/featured-story" className="inline-block">
               <span className="sr-only">Read more</span>

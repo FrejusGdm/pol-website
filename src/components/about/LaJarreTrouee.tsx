@@ -11,13 +11,13 @@ const LaJarreTrouee: React.FC = () => {
             <p className="text-[#0B0A0A] text-sm leading-relaxed">
               According to Beninese historians and the words of the Dahomey dignitary Dah Adjolohoun
               Zohoncon, King Ghézo created this symbol to emphasize the importance of unity and collective
-              effort for the nation's progress.
+              effort for the nation&apos;s progress.
               <br /><br />
-              The "pierced jar" is a metaphorical jar with holes. The story goes that this jar contains the water
+              The &quot;pierced jar&quot; is a metaphorical jar with holes. The story goes that this jar contains the water
               that brings happiness and prosperity to the country. However, due to the holes, the water leaks
               out, symbolizing the challenges and problems the nation faces.
               <br /><br />
-              King Ghézo's message was that if all the children of the country came together and used their
+              King Ghézo&apos;s message was that if all the children of the country came together and used their
               fingers to plug the holes, the jar would hold water, and the nation would be saved. This act of
               coming together and collaborating represents the collective effort needed to overcome difficulties and achieve progress.
               <br /><br />
