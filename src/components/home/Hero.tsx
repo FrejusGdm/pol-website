@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
                 Our Heritage
               </h1>
               <p className="text-center text-[#FAFAFA] text-[20px] font-normal leading-[19.2px]">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+              We&apos;re a passionate team committed to document, preserve and promote African languages 
               </p>
               <Button variant="secondary">JOIN US</Button>
             </div>

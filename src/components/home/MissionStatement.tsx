@@ -23,9 +23,7 @@ const MissionStatement: React.FC = () => {
           <div>
             <h2 className="text-3xl font-semibold text-[#1D4230] mb-2">MISSION STATEMENT</h2>
             <p className="text-sm text-gray-800 leading-relaxed">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
+            Our mission is to safeguard Africa&apos;s linguistic diversity. We <strong>document</strong> endangered languages, <strong>preserve</strong> them through innovative digital tools, and <strong>promote</strong> their use in communities. By collaborating with local and international partners and leveraging technology, we strive to keep African languages vibrant and relevant, enriching both continental and global cultural heritage.
             </p>
           </div>
           
