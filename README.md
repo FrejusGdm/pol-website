@@ -48,7 +48,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone url-of-the-repo
+   git clone https://github.com/FrejusGdm/pol-website.git
    ```
 2. Install NPM packages
    ```sh
@@ -87,7 +87,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@josue_gdm](https://twitter.com/your_twitter) - josue@akilli.ai / josue.f.godeme.26@dartmouth.edu
+Your Name - [@josue_gdm](https://twitter.com/josue_gdm) - josue@akilli.ai / josue.f.godeme.26@dartmouth.edu
 
 Live Website: [https://preserveourlanguages.org](https://preserveourlanguages.org)
 
