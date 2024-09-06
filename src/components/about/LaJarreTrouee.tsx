@@ -30,11 +30,17 @@ const LaJarreTrouee: React.FC = () => {
           </div>
           <div className="md:w-1/2 p-6 flex items-center justify-center">
             <div className="relative w-full h-full bg-gray-300">
-              <Image
-                src="/la-jarre-trouee.jpg"
+              <img
+                src="/images/jarreTrouée.png"
                 alt="La Jarre Trouée"
-                layout="fill"
-                objectFit="cover"
+                style={{
+                  width: '100%',
+                  height: '100%',
+                  objectFit: 'cover',
+                  position: 'absolute',
+                  top: 0,
+                  left: 0
+                }}
               />
               <div className="absolute inset-0 bg-black bg-opacity-20 flex items-center justify-center">
                 <button className="p-3 rounded-full border border-[#F4E1BC]">

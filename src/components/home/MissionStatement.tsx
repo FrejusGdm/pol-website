@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+// import Image from 'next/image';
 import Link from 'next/link';
 
 const MissionStatement: React.FC = () => {
@@ -8,12 +8,10 @@ const MissionStatement: React.FC = () => {
       <div className="container mx-auto px-6 flex flex-col md:flex-row items-center gap-10">
         <div className="w-full md:w-1/3">
           <div className="relative w-full h-[230px]">
-            <Image
-              src="/mission-image.jpg"
+            <img
+              src="./images/Ensa.png"
               alt="Mission Statement Image"
-              layout="fill"
-              objectFit="cover"
-              className="rounded-lg"
+              className="w-full h-full object-cover rounded-lg"
             />
           </div>
           <p className="mt-2 text-sm text-gray-600">© CRAterre / Ensag</p>
