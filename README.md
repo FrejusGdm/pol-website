@@ -1,6 +1,6 @@
 # African Language Preservation Project
 
-![Project Banner](https://via.placeholder.com/1200x300?text=African+Language+Preservation+Project)
+![Project Banner](./public/images/heroScreeshot.png)
 
 > Preserve the Voices of Our Heritage
 

@@ -27,7 +27,7 @@ const HistoryBackground: React.FC = () => {
             This discovery sparked a mission. With support from the Davis Project for Peace and the Dickey Center at Dartmouth College, Josué launched a summer project to digitize and preserve the Adja language. What started as a personal quest quickly evolved into a larger mission.
             </p>
             <p className="text-[#0B0A0A]">
-            In the future, PreserveOurLanguages aim to become a vibrant community of language enthusiasts, researchers, and technologists dedicated to safeguarding Africa's linguistic treasures. Our platform should serves as a hub for language documentation, education, and cultural preservation, empowering communities to celebrate and protect their unique languages.
+            In the future, PreserveOurLanguages aim to become a vibrant community of language enthusiasts, researchers, and technologists dedicated to safeguarding Africa&apos;s linguistic treasures. Our platform should serves as a hub for language documentation, education, and cultural preservation, empowering communities to celebrate and protect their unique languages.
             </p>
           </div>
           <Link href="/signup" className="inline-block mt-6">
