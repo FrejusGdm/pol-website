@@ -28,7 +28,7 @@ const OurTeam: React.FC = () => {
     <section className="bg-[#F5F7FA] py-16">
       <div className="container mx-auto px-6 max-w-6xl">
         <h2 className="text-center text-[#1D4230] text-3xl font-semibold mb-4">OUR TEAM</h2>
-        <p className="text-center text-[#0B0A0A] text-lg mb-12">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.</p>
+        <p className="text-center text-[#0B0A0A] text-lg mb-12">We are working on assembling an amazing team. Stay Connected!</p>
         <div className="flex flex-col md:flex-row gap-12">
           {teamMembers.map((member, index) => (
             <TeamMemberCard key={index} {...member} />

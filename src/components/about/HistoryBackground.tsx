@@ -20,13 +20,14 @@ const HistoryBackground: React.FC = () => {
           <h2 className="text-3xl font-semibold text-[#1D4230] mb-4">History and Background</h2>
           <div className="space-y-4">
             <p className="text-[#0B0A0A]">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
+            PreserveOurLanguages was born out of a personal journey and a startling realization. In 2024, our founder, Josué Godeme, a native Adja speaker from Benin, attempted to reconnect with his mother tongue. What he discovered was a glaring absence of digital resources for Adja - a language spoken by nearly a million people.
+            
             </p>
             <p className="text-[#0B0A0A]">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
+            This discovery sparked a mission. With support from the Davis Project for Peace and the Dickey Center at Dartmouth College, Josué launched a summer project to digitize and preserve the Adja language. What started as a personal quest quickly evolved into a larger mission.
             </p>
             <p className="text-[#0B0A0A]">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
+            In the future, PreserveOurLanguages aim to become a vibrant community of language enthusiasts, researchers, and technologists dedicated to safeguarding Africa's linguistic treasures. Our platform should serves as a hub for language documentation, education, and cultural preservation, empowering communities to celebrate and protect their unique languages.
             </p>
           </div>
           <Link href="/signup" className="inline-block mt-6">

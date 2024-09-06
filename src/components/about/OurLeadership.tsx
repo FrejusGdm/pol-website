@@ -12,7 +12,7 @@ const OurLeadership: React.FC = () => {
           <div className="md:w-2/3">
             <h2 className="text-[#1D4230] text-3xl font-semibold mb-2">OUR LEADERSHIP</h2>
             <p className="text-[#0B0A0A] text-sm mb-6">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt sagittis eros. Quisque quis euismod lorem.
+              Our leadership team is dedicated to preserving low-resourced languages through innovative research, community engagement, and technological solutions.
             </p>
             <h3 className="text-[#0B0A0A] text-2xl font-semibold mb-1">Josue</h3>
             <p className="text-[#0B0A0A] text-sm">Founder of the Project</p>
