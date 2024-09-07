@@ -19,9 +19,9 @@ const TeamMemberCard: React.FC<TeamMember> = ({ name, description, imageSrc }) =
 
 const OurTeam: React.FC = () => {
   const teamMembers: TeamMember[] = [
-    { name: "Full name", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", imageSrc: "/team-member-1.jpg" },
-    { name: "Full name", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", imageSrc: "/team-member-2.jpg" },
-    { name: "Full name", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", imageSrc: "/team-member-3.jpg" },
+    // { name: "Full name", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", imageSrc: "/team-member-1.jpg" },
+    // { name: "Full name", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", imageSrc: "/team-member-2.jpg" },
+    // { name: "Full name", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", imageSrc: "/team-member-3.jpg" },
   ];
 
   return (

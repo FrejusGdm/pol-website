@@ -20,7 +20,10 @@ const ImpactStories: React.FC = () => {
       <div className="container mx-auto max-w-7xl">
         <h2 className="text-center text-[#1D4230] text-3xl font-semibold mb-10">IMPACT STORIES</h2>
         <div className="flex flex-col md:flex-row gap-8">
-          <ImpactStory 
+          <div className="flex-1 flex flex-col justify-center items-center">
+            <p className="text-center text-[#0B0A0A] text-lg mb-4">Impact stories coming soon!</p>
+          </div>
+          {/* <ImpactStory 
             quote="Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat."
             author="Author Name"
             company="Company Name"
@@ -34,7 +37,7 @@ const ImpactStories: React.FC = () => {
             quote="Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat."
             author="Author Name"
             company="Company Name"
-          />
+          /> */}
         </div>
       </div>
     </section>

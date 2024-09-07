@@ -8,7 +8,7 @@ const HistoryBackground: React.FC = () => {
       <div className="container mx-auto max-w-7xl flex flex-col md:flex-row gap-10">
         <div className="md:w-1/3">
           <Image
-            src="/history-image.jpg"
+            src="/images/Ensa.png"
             alt="Our History"
             width={320}
             height={230}

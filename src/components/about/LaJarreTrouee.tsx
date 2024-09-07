@@ -7,8 +7,8 @@ const LaJarreTrouee: React.FC = () => {
       <div className="container mx-auto max-w-7xl">
         <div className="flex flex-col md:flex-row gap-8">
           <div className="md:w-1/2 p-6">
-            <h2 className="text-[#1D4230] text-3xl font-semibold mb-4">La Jarre Trouée</h2>
-            <p className="text-[#0B0A0A] text-sm leading-relaxed">
+            <h2 className="text-[#1D4230] text-xl font-semibold mb-4">La Jarre Trouée</h2>
+            <p className="text-[#0B0A0A] text-base leading-relaxed">
               According to Beninese historians and the words of the Dahomey dignitary Dah Adjolohoun
               Zohoncon, King Ghézo created this symbol to emphasize the importance of unity and collective
               effort for the nation&apos;s progress.
