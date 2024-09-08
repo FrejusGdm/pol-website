@@ -78,8 +78,8 @@ const Footer: React.FC = () => {
         <div className="text-center text-[#0B0A0A] text-sm mt-8">
           <p>Copyright © 2024 PreserveOurLanguage</p>
           <p className="mt-1">
-            Built by <a href="https://josue.com" className="hover:underline" target="_blank" rel="noopener noreferrer">Josué</a> and 
-            Designed by <a href="https://kamdi.com" className="hover:underline" target="_blank" rel="noopener noreferrer">Kamdi</a>
+            Built by <a href="https://github.com/FrejusGdm/pol-website" className="hover:underline" target="_blank" rel="noopener noreferrer">Josué</a> and 
+            Designed by <a href="https://www.upwork.com/freelancers/~010d7b3d9f3dd817e4?referrer_url_path=%2Ftalent-profile" className="hover:underline" target="_blank" rel="noopener noreferrer">Kamdi</a>
           </p>
         </div>
       </div>

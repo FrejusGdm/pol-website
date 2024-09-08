@@ -21,7 +21,7 @@ const AboutHero: React.FC = () => {
           </ul>
           <br></br>
 
-          Our work spans from creating the first-ever digital corpora for languages like Adja to partnering with global organizations to develop dictionaries and learning curricula. We believe that every language is a unique window into human experience, and by preserving these languages, we're safeguarding entire worldviews.
+          Our work spans from creating the first-ever digital corpora for languages like Adja to partnering with global organizations to develop dictionaries and learning curricula. We believe that every language is a unique window into human experience, and by preserving these languages, we&apos;re safeguarding entire worldviews.
           </p>
           <button className="bg-[#E4B458] text-[#0B0A0A] font-semibold py-2 px-7 rounded-lg">
             JOIN US
